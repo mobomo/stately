@@ -1,0 +1,149 @@
+@media only screen and (max-width: 960px) {  
+	header section{
+		padding:0 20px 20px;
+	}
+	
+	
+	#content{
+		padding:30px 20px 10px;
+	}
+	
+	.col{
+		margin:0px 0px 20px;
+	}
+
+}
+
+
+@media only screen and (max-width: 768px) {  
+
+	header{
+		height:auto;
+		clear:both;
+		overflow:auto;
+	}
+
+		header section{
+			padding:0px 20px 20px;
+		}
+
+		
+
+	#content{
+		padding:20px 10px 0px !important;
+	}
+	
+		#content .col{
+			width:100%;
+		}		
+}
+
+
+@media only screen and (max-width: 646px) {  
+
+	header{
+		height:auto;
+		clear:both;
+		overflow:auto;
+		text-align:center;
+	}
+	
+	header img{
+		height:140px;
+		margin:-15px 0 10px;
+		display:inline-block;
+	}
+	
+	header h1{
+		display:block;
+		line-height:50px !important;
+		margin:0 0 20px 0 !important;
+		padding:0 !important;
+		font-size:3.5em;
+	}
+	
+		header section{
+			padding-bottom:10px;
+		}
+
+		header #quick_links .button_outer{
+			clear:both;
+			width:100%;
+			margin-bottom:10px;
+		}
+		
+
+		
+	#content{
+		padding:20px 10px !important;
+	}
+
+	footer span{
+		max-width:60%;
+	}
+
+
+}
+  
+
+@media only screen and (max-width: 460px) {
+
+	
+	#reg_logo {
+		display: block;
+		margin: 0 auto 10px auto;
+	}
+	header h1 {
+		display: block!important;
+		margin: 0 0 20px 0!important;
+		line-height: 50px!important;
+		
+	}
+	header section{
+		padding:0px 10px 10px;
+	}
+
+	#content{
+		padding:20px 0 10px!important;
+	}
+	
+	#content ul {
+		padding: 0 20px;
+	}
+	
+	#content .author-links {
+		padding: 0;
+	}
+	footer section{
+		padding:0;
+	}
+	
+	footer span{
+		width:50%;
+	}
+	
+	footer #hiring{
+		right:54px;
+	}
+	
+	#title, #shadow, #header{
+		width:300px !important;
+	}
+	
+	#title{
+		height:350px;
+		padding-top:20px;
+	}
+	
+	#header, #shadow{
+		font-size:300px !important;
+	}
+	
+	#header h1{
+	}
+	
+	ul.stately{
+		width:280px !important;
+		font-size:280px !important ;
+	}
+}
