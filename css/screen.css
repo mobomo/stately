@@ -638,13 +638,13 @@ ul.stately li{
 }
 
 @-webkit-keyframes turn_header {
-	100% { -webkit-transform: rotateY(10deg) rotateX(20deg);}
-	0% { -webkit-transform: rotateY(-10deg) rotateX(20deg); }  
+	100% { -webkit-transform: rotateY(10deg) rotateX(20deg) translateZ(0)}
+	0% { -webkit-transform: rotateY(-10deg) rotateX(20deg) translateZ(0) }  
 }
 
 @-webkit-keyframes turn_shadow {
-	100% { -webkit-transform: rotateY(5deg) rotateX(80deg);}
-	0% { -webkit-transform: rotateY(-5deg) rotateX(80deg); }  
+	100% { -webkit-transform: rotateY(5deg) rotateX(80deg) translateZ(0);}
+	0% { -webkit-transform: rotateY(-5deg) rotateX(80deg) translateZ(0); }  
 }
 
 
@@ -686,7 +686,9 @@ ul.stately li{
 	width:360px;
 	font-size:360px;
 	position:absolute;
-		-webkit-perspective: 600px;
+	-webkit-transform: translateZ(0);
+	-webkit-perspective: 1000;
+	-webkit-backface-visibility: hidden;
 	-webkit-animation-name: turn_header;
 	-webkit-animation-duration: 5s;
 	-webkit-animation-timing-function: ease-in-out;
@@ -742,6 +744,9 @@ ul.stately li{
 	-o-animation-iteration-count: infinite;
 	-o-animation-direction: alternate;
 	
+	-webkit-transform: translateZ(0);
+	-webkit-perspective: 1000;
+	-webkit-backface-visibility: hidden;
 	color:rgba(0,0,0,.5);
 	opacity:.1;
 	position:absolute;
