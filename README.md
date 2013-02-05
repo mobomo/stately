@@ -12,7 +12,7 @@ Download and add the Stately folder to your project which includes the base CSS 
 
 `<link rel="stylesheet" href="stately/stately.css">`
 
-Then add this markup to the page
+Then add this markup to the page:
 
     <ul class="stately"> 
         <li data-state="al" id="al">A</li>
@@ -68,7 +68,7 @@ Then add this markup to the page
         <li data-state="wy" id="wy">y</li>
     </ul>
     
-Set the size and base map color in your CSS.
+Set the size and base map color in your CSS:
 
     ul.stately {
       width:300px;     //width and font size must match 
@@ -76,7 +76,7 @@ Set the size and base map color in your CSS.
   	  color:#f0f0f0;
     }
     
-Style Individual State.
+Style Individual State:
 
     .stately li[title="va"],
     .stately li[title="md"],
