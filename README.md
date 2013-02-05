@@ -2,10 +2,10 @@
 Stately is a symbol font that makes is easy to create a map of the United States using only HTML and CSS. Each state can be styled independently with CSS for making simple visualizations. And since it's a font, it scales bigger and smaller while staying sharp as a tack.
 
 ##Files
-    map.svg      - this is the base SVG map used to create the font
-    screen.css   - base CSS for the stately.html demo page
-    stately\     - folder containing the web-fonts and basic CSS
-    stately.html - demo page
+    map.svg      - SVG map used to create the font
+    screen.css   - Base CSS for the stately.html demo page
+    stately\     - Folder containing the web-fonts and basic CSS
+    stately.html - Basic Demo
     stately.svg  - SVG font file
     stately.ttf  - TrueType font file
     
