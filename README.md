@@ -97,6 +97,11 @@ Style Individual State:
 
 [Stately Microsite](http://intridea.github.com/stately/)
 
+##Resources
+
+[Free Online Font Converter](http://www.freefontconverter.com) - For converting SVG to TTF
+[Font Squirrel](http://www.fontsquirrel.com/fontface/generator) - For converting TTF to web fonts (make sure you check 'no subsetting')
+
 ##Credits
 
 Created by Ben Markowitz at Intridea. 
