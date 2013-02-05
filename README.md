@@ -83,3 +83,9 @@ Style Individual State.
     .stately li[title="dc"] { 
       color: #FF0000;
     }
+    
+##Live Example
+
+[Stately Microsite](http://intridea.github.com/stately/)
+
+
