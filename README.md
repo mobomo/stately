@@ -92,10 +92,10 @@ Style Individual State.
 
 Created by Ben Markowitz at Intridea. 
 
-Ben Markowitz
-[twitter](http://www.twitter.com/bpmarkowitz)
-[website](http://www.benmarkowitz.com)
+Ben Markowitz  
+[twitter](http://www.twitter.com/bpmarkowitz)  
+[website](http://www.benmarkowitz.com)  
 
-Intridea
-[website](http://www.intridea.com)
+Intridea  
+[website](http://www.intridea.com)  
 
