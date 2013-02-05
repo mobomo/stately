@@ -14,7 +14,7 @@ Download and add the Stately folder to your project which includes the base CSS 
 
 Then add this markup to the page
 
-    <ul class="stately" id="shadow"> 
+    <ul class="stately"> 
         <li data-state="al" id="al">A</li>
         <li data-state="ak" id="ak">B</li>
         <li data-state="ar" id="ar">C</li>						
@@ -67,3 +67,11 @@ Then add this markup to the page
         <li data-state="wi" id="wi">x</li>
         <li data-state="wy" id="wy">y</li>
     </ul>
+    
+Set the size and base map color in your CSS.
+
+    ul.stately {
+      width:300px;     //width and font size must match 
+  	  font-size:300px; //width and font size must match 
+  	  color:#f0f0f0;
+    }
