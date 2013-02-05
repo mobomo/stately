@@ -99,7 +99,7 @@ Style Individual State:
 
 ##Resources
 
-[Free Online Font Converter](http://www.freefontconverter.com) - For converting SVG to TTF
+[Free Online Font Converter](http://www.freefontconverter.com) - For converting SVG to TTF  
 [Font Squirrel](http://www.fontsquirrel.com/fontface/generator) - For converting TTF to web fonts (make sure you check 'no subsetting')
 
 ##Credits
