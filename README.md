@@ -75,3 +75,11 @@ Set the size and base map color in your CSS.
   	  font-size:300px; //width and font size must match 
   	  color:#f0f0f0;
     }
+    
+Style Individual State.
+
+    .stately li[title="va"],
+    .stately li[title="md"],
+    .stately li[title="dc"] { 
+      color: #FF0000;
+    }
