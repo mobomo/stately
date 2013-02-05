@@ -88,4 +88,14 @@ Style Individual State.
 
 [Stately Microsite](http://intridea.github.com/stately/)
 
+##Credits
+
+Created by Ben Markowitz at Intridea. 
+
+Ben Markowitz
+[twitter](http://www.twitter.com/bpmarkowitz)
+[website](http://www.benmarkowitz.com)
+
+Intridea
+[website](http://www.intridea.com)
 
