@@ -113,3 +113,10 @@ Ben Markowitz
 Intridea  
 [website](http://www.intridea.com)  
 
+##License
+
+MIT License. See LICENSE for details.
+
+##Copyright
+
+Copyright (c) 2013 Intridea, Inc.
