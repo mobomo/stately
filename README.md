@@ -10,4 +10,4 @@ For modern browsers ligatures are available and a state's abbreviation is it's l
 You can use stately however you like, but some base CSS and HTML is included. 
 Download and add the Stately folder to your project which includes the base CSS and the web font files. Grab the stately folder and add it to your project. Then add the stately.css to the head of your document.
 
-'<link rel="stylesheet" href="stately/stately.css">'
+`<link rel="stylesheet" href="stately/stately.css">`
