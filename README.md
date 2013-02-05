@@ -101,7 +101,7 @@ Style Individual State:
 
 [Free Online Font Converter](http://www.freefontconverter.com) - For converting SVG to TTF  
 [Font Squirrel](http://www.fontsquirrel.com/fontface/generator) - For converting TTF to web fonts (make sure you check 'no subsetting')
-
+[Intridea Blog: How to Make Your Own Symbol Font](http://www.intridea.com/blog/2012/4/24/symbol-font) - A good starting place
 ##Credits
 
 Created by Ben Markowitz at Intridea. 
