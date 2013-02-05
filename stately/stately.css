@@ -21,9 +21,6 @@ ul.stately{
 	-o-text-rendering: optimizeLegibility;
 	text-rendering: optimizeLegibility;
 	text-rendering: optimizeLegibility;
-	-moz-font-feature-settings: "liga=1";
-	-ms-font-feature-settings: "liga" 1;
-	-ms-font-feature-settings:"liga", "dlig"; 
 	overflow:hidden;
 	width:300px;
 	font-size:300px;
