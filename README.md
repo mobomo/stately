@@ -1,6 +1,15 @@
 #Stately
 Stately is a symbol font that makes is easy to create a map of the United States using only HTML and CSS. Each state can be styled independently with CSS for making simple visualizations. And since it's a font, it scales bigger and smaller while staying sharp as a tack.
 
+##Files
+    map.svg      - this is the base SVG map used to create the font
+    screen.css   - base CSS for the stately.html demo page
+    stately\     - folder containing the web-fonts and basic CSS
+    stately.html - demo page
+    stately.svg  - SVG font file
+    stately.ttf  - TrueType font file
+    
+
 ##What is Stately?
 Each state is a glyph within the font. Each state is positioned and sized relative to the the rest of the states, so that when each character is stacked on top of one another, it creates a full map.
 The pertinent characters are uppercase A-Z and lowercase a-z with lowercase y generating the District of Columbia and lowercase z generating a full US map.
