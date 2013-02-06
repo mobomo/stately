@@ -87,10 +87,10 @@ Set the size and base map color in your CSS:
     
 Style Individual State:
 
-    .stately li[title="va"],
-    .stately li[title="md"],
-    .stately li[title="dc"] { 
-      color: #FF0000;
+    .stately li#va,
+    .stately li#md,
+    .stately li#dc { 
+       color: #FF0000;
     }
     
 ##Live Example
