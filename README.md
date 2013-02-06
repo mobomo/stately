@@ -5,7 +5,7 @@ Stately is a symbol font that makes is easy to create a map of the United States
     map.svg      - SVG map used to create the font
     assets\font  - Folder containing the web-font files
     assets\sass  - Folder containing basic Sass files, including both Stately setup and stately.html demo customizations
-    assets\css    - Folder containing compiled CSS files
+    assets\css   - Folder containing compiled CSS files
     stately.html - Basic Demo
     stately.svg  - SVG font file
     stately.ttf  - TrueType font file
