@@ -14,7 +14,7 @@ function flash(){
 	color = Math.round(Math.random()*5);
 	x = Math.round(Math.random()*4);
 
-
+	
 	// $("#header").clone().replaceWith('#shadow');
 	// $("#shadow").replaceWith(	$("#header").clone());
 	$("#header li").eq(random).css('color', 'rgba(255,255,255,.'+(color+4)+')');
