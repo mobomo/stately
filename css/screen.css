@@ -42,7 +42,7 @@ div { font-family:"FS Me Web Light", Helvetica, Arial, Verdana , sans-serif; fon
 * { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;}
   
 body{
-  background:#eeeeee;
+  background:#fff;
   font-family:"FS me","FS Me Web Regular", Helvetica, Arial, Verdana , sans-serif; font-size-adjust:0.53; font-weight:normal; font-style:normal;
   -webkit-font-smoothing: antialiased;
   -webkit-tap-highlight-color: rgba(84,6,90,.4);  
