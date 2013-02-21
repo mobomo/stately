@@ -555,11 +555,17 @@ ul.stately{
 	color:#b0b0b0;
 }
 
+
+
 ul.stately li{
 	-webkit-transition: all 1s ease-in; 
 	-moz-transition: all 1s ease-in; 
 	-o-transition: all 1s ease-in; 
 	transition: all 1s ease-in;
+}
+
+ul.stately li span{
+	display:none;
 }
 
 #election li{
