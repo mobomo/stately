@@ -16,7 +16,7 @@ div { font-family:"FS Me Web Light", Helvetica, Arial, Verdana , sans-serif; fon
   right:20px;
   width:40px;
   height:40px;
-  background:url("../img/tag_2x.png") bottom center;
+  background:url("../img/tag.png") bottom center;
   z-index:5000;
 	background-size: 40px 40px;
   opacity:.4;
@@ -416,12 +416,13 @@ footer{
 
   #footer_logo{
         background:url("../img/intridea_logo.png") center right no-repeat;
-        width:136px;
-        height:30px;
+        width:140px;
+		height:23px;
         float:right;
         background-size:100%;
         text-indent:-9999px;
-		background-size: 136px 30px;
+		background-size: 140px;
+		opacity:.5;
         }
   
         @media only screen and (-webkit-min-device-pixel-ratio: 1.5) {
