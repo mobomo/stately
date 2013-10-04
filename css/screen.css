@@ -425,12 +425,6 @@ footer{
 		opacity:.5;
         }
   
-        @media only screen and (-webkit-min-device-pixel-ratio: 1.5) {
-          #footer_logo{
-                background:url("../img/intridea_logo_2x.png") center right no-repeat;
-
-                }
-        }
   
   
   footer a,  footer a:hover,   footer a:active,   footer a:visited {
